@@ -14,7 +14,6 @@ link : https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset
 
 + pandas
 + matplotlib
-+ seaborn
 + scikit-learn
 
 ## Environment
